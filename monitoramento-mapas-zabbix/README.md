@@ -21,7 +21,7 @@ Insira um gif ou um link de alguma demonstração
 - **O mapa muda de acordo com incidentescom as VPNs, se tiver vermelho a conexão está off.**
 <br><br/>
 
-![Dashboard](/img/links-off-vpn.PNG)
+![Dashboard](/monitoramento-mapas-zabbix/img/links-off-vpn.PNG)
 
 <br><br/>  
 
