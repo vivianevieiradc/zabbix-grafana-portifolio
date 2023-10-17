@@ -27,7 +27,7 @@ Insira um gif ou um link de alguma demonstração
 <br><br/>  
 
 
-![Dashboard](/img/links-on-vpn.PNG "Dashboard")
+![Dashboard](monitoramento-mapas-zabbix/img/links-on-vpn.PNG)
 
 ## Autores
 
