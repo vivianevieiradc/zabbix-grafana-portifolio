@@ -19,8 +19,10 @@ Insira um gif ou um link de alguma demonstração
 ## Screenshots
 
 - **O mapa muda de acordo com incidentescom as VPNs, se tiver vermelho a conexão está off.**
-<br><br/>  
+<br><br/>
+
 ![Dashboard](/img/links-off-vpn.PNG "Dashboard")
+
 <br><br/>  
 
 - **O mapa muda de acordo com incidentes com as VPNs, caso esteja verde, tudo está funcionado perfeitamente.**
@@ -28,6 +30,7 @@ Insira um gif ou um link de alguma demonstração
 
 
 ![Dashboard](/img/links-on-vpn.PNG "Dashboard")
+
 
 ## Autores
 
