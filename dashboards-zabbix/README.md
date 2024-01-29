@@ -20,6 +20,7 @@ O **Dashboard de Monitoramento de Internet no Zabbix** é uma ferramenta desenvo
 - Utilize os filtros e opções de visualização para obter insights sobre o desempenho da conexão com a Internet.
 - Responda prontamente aos alertas gerados pelo sistema para resolver problemas de conectividade.
 
-- ![Dashboards Links de Internet](img/dashboard-link.png)
+
+  ![Dashboards Links de Internet](img/dashboard-link.png)
 
 
