@@ -18,15 +18,6 @@ O Zabbix é uma solução de monitoramento distribuído e de código aberto que 
 - **Referências:**
   - Links para documentação oficial, blogs, fóruns e outras fontes de informação sobre o Zabbix.
 
-## Como Contribuir
-
-Se você deseja contribuir para este repositório, sinta-se à vontade para:
-
-- Adicionar novos projetos ou scripts relacionados ao Zabbix.
-- Compartilhar recursos de estudo úteis, como tutoriais ou guias.
-- Corrigir problemas ou melhorar a documentação existente.
-
-Por favor, certifique-se de seguir as diretrizes de contribuição do projeto.
 
 ## Recursos Adicionais
 
