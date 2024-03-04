@@ -1,4 +1,4 @@
-# zabbix-grafana-study
+# Projeto Zabbix e Grafana
 
 
 Este repositório contém projetos e materiais de estudo relacionados ao Zabbix, uma plataforma de monitoramento de rede e aplicativos de código aberto.
