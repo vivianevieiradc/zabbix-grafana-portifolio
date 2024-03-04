@@ -8,6 +8,4 @@ Para a analise foram utilizados os principais sites acessados pela a institui√ß√
 
 
 ## Screenshots
-
-![Monitoramentoweb](grafana-dashboard/monitoramentoweb-dashboard/monitoramento-web.png)
-
+![Dashboard para monitoramento. ](/monitoramentoweb-dashboard/monitoramento-web.png)
