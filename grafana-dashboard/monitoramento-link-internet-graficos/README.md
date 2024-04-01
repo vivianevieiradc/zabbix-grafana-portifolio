@@ -14,4 +14,4 @@ Este é um sistema de monitoramento de links de internet que fornece informaçõ
 
 ## Screenshots
 
-![Dashboard](/grafana-dashboard/monitoramaneto-link-internet-graficos/MONITORAMENTO-LINKS.png)
+![Dashboard](/grafana-dashboard/monitoramento-link-internet-graficos/MONITORAMENTO-LINKS.png)
